@@ -84,3 +84,7 @@ module.
 - `scripts/strata-run.sh` is the Strata benchmark loop. `scripts/gpu-level-ab.sh` is the DPM A/B with clock and
   power sampling. `scripts/llama-spec-test.sh` compares llama.cpp's speculative modes.
 - Raw logs are in `results/`.
+
+## License
+
+MIT. Scripts, configs and measurements are free to reuse.
