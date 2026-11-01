@@ -1,5 +1,7 @@
 # Strata and llama.cpp on a Mac Pro 2019 Radeon Pro Vega II (gfx906, single card)
 
+English | [日本語](README.ja.md)
+
 Benchmarks of local LLM engines on one **Radeon Pro Vega II 32 GB (gfx906, HBM2)** in a Mac Pro 2019 running
 Linux (t2linux). The main result: **Strata's gfx906 build runs Qwen3.8-Flash-Next (GSQ-RCO IQ3_XXS) at about
 43 tok/s decode on a single card**. Getting there needed one non-obvious fix, described in
