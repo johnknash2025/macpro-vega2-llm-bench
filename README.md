@@ -8,6 +8,9 @@ Linux until DPM is unlocked.
 
 All numbers were measured on 2026-10-11 and are reproducible with the scripts in [`scripts/`](scripts/).
 
+**Next:** the same measure-and-tune work on AMD Instinct MI300X (CDNA 3, gfx942), to see how GPU kernels for
+local agent workloads carry over from consumer and workstation Radeon cards to Instinct.
+
 ## Hardware and software
 
 | | |
